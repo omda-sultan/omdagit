@@ -1,4 +1,4 @@
 # omdagit
 to learn git
 
-##omdasultan
+## omdasultan
