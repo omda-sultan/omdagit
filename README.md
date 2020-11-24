@@ -5,5 +5,5 @@ to learn git
 1. omda
 2. omda2
 3. omda3
-- omda3.1
+   - omda3.1
 4. omda4
