@@ -2,5 +2,5 @@
 to learn git
 
 ## omdasultan
--omda
--omda2
+1.omda
+2.omda2
