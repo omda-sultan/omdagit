@@ -1,4 +1,0 @@
-# omdagit
-to learn git
-
-
